@@ -1,4 +1,4 @@
-(Script originally created in 2008/04/20 for a french website : [http://www.phpcs.com/codes/PHP5-CLASSE-UPLOAD_45454.aspx](http://www.phpcs.com/codes/PHP5-CLASSE-UPLOAD_45454.aspx "PHP CS"))
+(**Script originally created in 2008/04/20** for a french website : [http://www.phpcs.com/codes/PHP5-CLASSE-UPLOAD_45454.aspx](http://www.phpcs.com/codes/PHP5-CLASSE-UPLOAD_45454.aspx "PHP CS"))
 
 Oui je sais, ca fait encore une de plus ! :)
 Mais personnellement je n'ai rien trouvé qui me convienne en Php5.
